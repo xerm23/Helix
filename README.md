@@ -2,6 +2,4 @@
 Unity project of Helix Jump remake.
 Windows build file in build folder.
 
-https://user-images.githubusercontent.com/62344472/110858912-f3c16d80-82ba-11eb-9168-c279244c6fe2.mp4
-
-
+![helixAnim](https://user-images.githubusercontent.com/62344472/110859188-5b77b880-82bb-11eb-8068-d7b4af891984.gif)
